@@ -1,0 +1,4 @@
+br/com/i4business/money/application/UseCaseTest.class
+br/com/i4business/money/domain/UnitTest.class
+br/com/i4business/money/domain/data/categoria/CategoriaTest.class
+br/com/i4business/money/application/categoria/cadastrar/CadastrarCategoriaUseCaseTest.class
